@@ -15,6 +15,8 @@ Dashboard berikut dapat membantu perusahaan untuk memvisualisasikan data dengan 
 
 ### Growth
 
+![image](https://github.com/ahmad14022/sales-data-1/assets/100104854/d72e135d-6aa5-41e2-a294-17bae120501b)
+
 
 ### Composition
 
