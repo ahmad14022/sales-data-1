@@ -19,5 +19,7 @@ Melalui table growth berikut, perusahaan dapat mengetahui pertumbuhan atau grafi
 ![image](https://github.com/ahmad14022/sales-data-1/assets/100104854/d72e135d-6aa5-41e2-a294-17bae120501b)
 
 
-### Composition
+### 📌 Composition
+Hierarki cart berikut dapat membantu perusahaan untuk mengetahui produk category dan sub category terbanyak berdasarkan keuntungan atau pendapatan yang diperoleh oleh perusahaan dalam waktu tertentu. 
 
+![image](https://github.com/ahmad14022/sales-data-1/assets/100104854/8d16ab17-9e97-48bb-adba-03ac8e720ebc)
