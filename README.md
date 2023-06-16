@@ -1,4 +1,6 @@
-# sales-data-1
+# Sales Data 1
+- Berikut penjelasan dan isi mengenai analisis data yang telah saya kerjakan
+
 ### Pivot Table
 Pivot table berikut dapat membantu perusahaan untuk mengambil kesimpulan dengan cepat dan tepat mengenai beberapa hal, diantaranya total pendapatan produk per tahun, jumlah pendapatan antara pembeli laki-laki dan perempuan dengan usia tertentu, dll. Selain itu, pivot table juga dapat membantu perusahaan dalam pengambilan keputusan dan perancangan strategi di masa depan.
 
