@@ -1,4 +1,4 @@
-# Sales Data 1
+# 💹 Sales Data 1
 Berikut penjelasan dan isi mengenai analisis data yang telah saya kerjakan
 
 ### 📌 Pivot Table
