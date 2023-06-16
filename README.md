@@ -13,7 +13,8 @@ Dashboard berikut dapat membantu perusahaan untuk memvisualisasikan data dengan 
 ![image](https://github.com/ahmad14022/sales-data-1/assets/100104854/3e27cb5d-f42a-4eea-8187-5c3743f1afd0)
 
 
-### Growth
+### 📌 Growth
+Melalui table growth berikut, perusahaan dapat mengetahui pertumbuhan atau grafik dari product category dan sub-category setiap tahunnya serta provit persentase setiap tahunnya. Diharapkan dengan dibuatnya table tersebut perusahaan dapat merancang strategi agar produk yang dipasarkan selalu mengalami pertumbuhan setiap tahunnya.
 
 ![image](https://github.com/ahmad14022/sales-data-1/assets/100104854/d72e135d-6aa5-41e2-a294-17bae120501b)
 
